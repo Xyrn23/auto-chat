@@ -67,4 +67,4 @@ function scheduleMessage(desiredTime, messages) {
 // Example usage: Schedule messages for 7:30 PM
 const messages = ["Message 1", "Message 2", "Message 3"];
 
-scheduleMessage("1:22 PM", messages);
+scheduleMessage("1:23 PM", messages);
